@@ -4,10 +4,10 @@ def calcular_estatisticas(attrs):
     agi = attrs["AGI"]
     exp = attrs["EXP"]
     return {
-        "Saúde": 10 + vig * 6,
-        "Disposição": 5 + det * 3,
-        "Iniciativa": 5 + (agi - 1) + agi * 2,
-        "Presença": 5 + (exp - 1) + exp * 2
+        "PV": 10 + vig * 6,
+        "PD": 5 + det * 3,
+        "INI": 1 + agi * 2,
+        "PRE": 1 + exp * 2
     }
 
 def limite_habilidades(cog):
