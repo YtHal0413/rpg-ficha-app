@@ -2,7 +2,7 @@
 
 ### *Protótipo de aplicação em Python para preenchimento e geração automática de fichas de RPG em formato PDF*
 
-O projeto foi desenvolvido com finalidade acadêmica, como parte do estudo da linguagem Python e da aplicação prática de seus módulos externos.
+O projeto foi desenvolvido com finalidade acadêmica, como parte do estudo da linguagem Python e da aplicação prática de seus módulos externos. Porções do código usado foram criadas com auxílio de IA.
 
 
 
