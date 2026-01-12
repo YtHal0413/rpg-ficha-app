@@ -10,10 +10,9 @@ A solução utiliza dois módulos principais.
 
 - **Tkinter**, responsável pela construção da interface gráfica utilizada para coleta e manipulação dos dados do personagem;  
 - **ReportLab**, empregado na geração, estruturação e formatação dos arquivos PDF resultantes.
+ 
 
-##### 
-
-### Como Executar o aplicativo:
+## Como Executar o aplicativo:
 Baixe o arquivo compactado do projeto;  
 Descompacte na pasta desejada;  
 Abra o Terminal da sua máquina;
