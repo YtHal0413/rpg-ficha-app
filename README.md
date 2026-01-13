@@ -17,7 +17,7 @@ Baixe o arquivo compactado do projeto;
 Descompacte na pasta desejada;  
 Abra o Terminal da sua máquina;
 * *Caso seja no **Windows, Prompt de Comando (CMD)**:*
-  * Navegue até a pasta do projeto - cd C:\\caminho\\da\\pasta\\rpg-ficha-app-main
+  * Navegue até a pasta do projeto - cd C:\\caminho\\da\\pasta\\rpg-sheetgen-main
   * Execute a ativação do ambiente virtual - .\\.venv\\Scripts\\activate.bat
     - (Deve aparecer o indicador (.venv) no começo da linha de execução.)
   * Execute a aplicação - python app.py
